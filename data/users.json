@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "token": "user123",
+      "isPremium": true,
+      "premiumExpiry": "2025-07-08",
+      "username": "Premium Kullanıcı",
+      "joinDate": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "token": "user456",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "username": "Normal Kullanıcı",
+      "joinDate": "2024-03-20"
+    }
+  ],
+  "admin": {
+    "token": "admin123",
+    "username": "Admin"
+  },
+  "stats": {
+    "activeServices": 24,
+    "totalUsers": 156,
+    "premiumUsers": 89
+  }
+}
