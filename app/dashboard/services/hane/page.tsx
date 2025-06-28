@@ -8,7 +8,7 @@ import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { Copy, Search, Home } from "lucide-react"
+import { Copy, Search, MapPin, ArrowLeft, User, AlertCircle, CheckCircle } from "lucide-react"
 import { toast } from "@/hooks/use-toast"
 
 export default function HanePage() {
